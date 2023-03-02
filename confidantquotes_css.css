@@ -1,0 +1,54 @@
+h1{
+  font-weight: bold;
+  color: black !important;
+}
+
+h2{
+  text-align: center;
+}
+
+div{
+  font-family: 'Special Elite', cursive;
+  color: black !important;
+
+}
+
+p {
+	font-size: 20px !important;
+  color: black !important;
+}
+
+label{
+	font-size: 14px !important;
+}
+
+.card-body {
+  background-color: #faf8e6;
+}
+
+    .popover {
+      border: 1px dotted #ccc !important;
+      max-width: 50% !important;
+      font-family: 'Special Elite', cursive;
+
+    }
+
+    .btn-secondary{
+    font-size: 16px !important;
+    }
+
+    .popover-header{
+      font-size: 16px !important;
+      color: white !important;
+      background-color: #6c757d !important;
+      font-family: 'Special Elite', cursive;
+    }
+
+    .popover-body{
+      color: black !important;
+      font-size: 14px !important;
+      font-color: white;
+      background-color: #f8f9fa !important;
+      font-family: 'Special Elite', cursive;
+
+    }
